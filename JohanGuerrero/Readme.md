@@ -23,5 +23,5 @@ Colegio al que pertenezco desde que he estado desde sexto,[Instituto san Ignacio
 
 [1]:http://seab.arquibogota.org.co/es/noticias/18114-instituto-san-ignacio-de-loyola.html\
 
-![Image](main.png)
+![Image](Main.png)
 ![Image](Remote.png)
