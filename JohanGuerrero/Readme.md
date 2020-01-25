@@ -19,6 +19,9 @@
 4. Estar con mis amigos
 5. Bailar
 
-Colegio al que pertenezco desde que he estado en 6 [Instituto san Ignacio de Loyola][1], he vivido cerca de ahi toda mi vida y siempre he crecido con valores y con muchas ganas de innovar y crear una diferencia.
+Colegio al que pertenezco desde que he estado desde sexto,[Instituto san Ignacio de Loyola][1], he vivido cerca de ahi toda mi vida y siempre he crecido con valores y con muchas ganas de innovar y crear una diferencia.
 
 [1]:http://seab.arquibogota.org.co/es/noticias/18114-instituto-san-ignacio-de-loyola.html\
+
+![Image](main.png)
+![Image](Remote.png)
